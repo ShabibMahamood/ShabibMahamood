@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ShabibMahamood
 - 👀 I’m interested in Ethical Hacking , Music Production, Coding
-- 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: HE
